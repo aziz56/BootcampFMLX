@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\projectsatu\bin\Debug\net7.0\projectsatu.exe
+C:\Users\Batch 4\Solution\projectsatu\bin\Debug\net7.0\projectsatu.deps.json
+C:\Users\Batch 4\Solution\projectsatu\bin\Debug\net7.0\projectsatu.runtimeconfig.json
+C:\Users\Batch 4\Solution\projectsatu\bin\Debug\net7.0\projectsatu.dll
+C:\Users\Batch 4\Solution\projectsatu\bin\Debug\net7.0\projectsatu.pdb
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.dll
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\refint\projectsatu.dll
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.pdb
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\projectsatu.genruntimeconfig.cache
+C:\Users\Batch 4\Solution\projectsatu\obj\Debug\net7.0\ref\projectsatu.dll
