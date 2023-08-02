@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\Polymorfisme\bin\Debug\net7.0\Polymorfisme.exe
+c:\Users\Batch 4\Solution\Polymorfisme\bin\Debug\net7.0\Polymorfisme.deps.json
+c:\Users\Batch 4\Solution\Polymorfisme\bin\Debug\net7.0\Polymorfisme.runtimeconfig.json
+C:\Users\Batch 4\Solution\Polymorfisme\bin\Debug\net7.0\Polymorfisme.dll
+C:\Users\Batch 4\Solution\Polymorfisme\bin\Debug\net7.0\Polymorfisme.pdb
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.dll
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\refint\Polymorfisme.dll
+C:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.pdb
+c:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\Polymorfisme.genruntimeconfig.cache
+c:\Users\Batch 4\Solution\Polymorfisme\obj\Debug\net7.0\ref\Polymorfisme.dll

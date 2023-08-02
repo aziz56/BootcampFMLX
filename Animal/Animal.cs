@@ -6,14 +6,14 @@ public class Animal
     public string name;
     public void sleep()
     {
-        Console.WriteLine(sleep)
+        Console.WriteLine("sleep");
     }
     public void Makesound()
     {
-        Console.WriteLine(Makesound)
+        Console.WriteLine("Makesound");
     }
     public void Eat()
     {
-        Console.WriteLine(Eat)
+        Console.WriteLine("Eat");
     }
 }

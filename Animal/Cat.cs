@@ -4,6 +4,6 @@ public class Cat:Animal
 {
     public void scratch()
     {
-        Console.WriteLine(scratch);
+        Console.WriteLine("scratch");
     }
 }

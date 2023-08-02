@@ -3,7 +3,7 @@ namespace ProjectTiga;
 public class Car
 {
 	public Engine engine;
-	public Lamp lamp;
+	private Lamp lamp;
 	public Tire tire;
 	
 	public void EngineStart() 

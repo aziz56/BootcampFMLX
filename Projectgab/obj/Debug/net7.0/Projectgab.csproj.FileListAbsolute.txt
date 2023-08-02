@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\Projectgab\bin\Debug\net7.0\Projectgab.exe
+c:\Users\Batch 4\Solution\Projectgab\bin\Debug\net7.0\Projectgab.deps.json
+c:\Users\Batch 4\Solution\Projectgab\bin\Debug\net7.0\Projectgab.runtimeconfig.json
+C:\Users\Batch 4\Solution\Projectgab\bin\Debug\net7.0\Projectgab.dll
+C:\Users\Batch 4\Solution\Projectgab\bin\Debug\net7.0\Projectgab.pdb
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.dll
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\refint\Projectgab.dll
+C:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.pdb
+c:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\Projectgab.genruntimeconfig.cache
+c:\Users\Batch 4\Solution\Projectgab\obj\Debug\net7.0\ref\Projectgab.dll
