@@ -2,8 +2,8 @@
 public class Animali
 {
     protected int age;
-    public string name;
-    public string getName()
+    public string? name;
+    public string GetName()
     {
         return name;
     }
@@ -54,7 +54,7 @@ public class Jalan
         Cat cat = new Cat();
         
         cat.Eat("fish");
-        Birdi bird = new bird();
+        Birdi bird = new Birdi();
         bird.Fly();
         string? birdName =  bird.name = "aziz";
 

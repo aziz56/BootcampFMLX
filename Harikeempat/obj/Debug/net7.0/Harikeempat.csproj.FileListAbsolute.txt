@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\Harikeempat\bin\Debug\net7.0\Harikeempat.exe
+c:\Users\Batch 4\Solution\Harikeempat\bin\Debug\net7.0\Harikeempat.deps.json
+c:\Users\Batch 4\Solution\Harikeempat\bin\Debug\net7.0\Harikeempat.runtimeconfig.json
+C:\Users\Batch 4\Solution\Harikeempat\bin\Debug\net7.0\Harikeempat.dll
+C:\Users\Batch 4\Solution\Harikeempat\bin\Debug\net7.0\Harikeempat.pdb
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.dll
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\refint\Harikeempat.dll
+C:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.pdb
+c:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\Harikeempat.genruntimeconfig.cache
+c:\Users\Batch 4\Solution\Harikeempat\obj\Debug\net7.0\ref\Harikeempat.dll
