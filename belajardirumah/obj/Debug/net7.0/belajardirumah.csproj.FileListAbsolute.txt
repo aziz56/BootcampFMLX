@@ -1,0 +1,15 @@
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\bin\Debug\net7.0\belajardirumah.exe
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\bin\Debug\net7.0\belajardirumah.deps.json
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\bin\Debug\net7.0\belajardirumah.runtimeconfig.json
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\bin\Debug\net7.0\belajardirumah.dll
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\bin\Debug\net7.0\belajardirumah.pdb
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.csproj.AssemblyReference.cache
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.AssemblyInfoInputs.cache
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.AssemblyInfo.cs
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.csproj.CoreCompileInputs.cache
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.dll
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\refint\belajardirumah.dll
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.pdb
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\belajardirumah.genruntimeconfig.cache
+c:\Users\Azziz\Downloads\BootcampFMLX-main\BootcampFMLX-main\belajardirumah\obj\Debug\net7.0\ref\belajardirumah.dll
