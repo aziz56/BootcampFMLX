@@ -15,3 +15,4 @@ void Main() {
 	Child child2 = (Child)parent2; //ABCD <- AB
 	child2.ParentMethod(); // child.A
 	child2.ChildMethod(); //child.C
+}

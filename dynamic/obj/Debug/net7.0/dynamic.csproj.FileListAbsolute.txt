@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\dynamic\bin\Debug\net7.0\dynamic.exe
+C:\Users\Batch 4\Solution\dynamic\bin\Debug\net7.0\dynamic.deps.json
+C:\Users\Batch 4\Solution\dynamic\bin\Debug\net7.0\dynamic.runtimeconfig.json
+C:\Users\Batch 4\Solution\dynamic\bin\Debug\net7.0\dynamic.dll
+C:\Users\Batch 4\Solution\dynamic\bin\Debug\net7.0\dynamic.pdb
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.dll
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\refint\dynamic.dll
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.pdb
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\dynamic.genruntimeconfig.cache
+C:\Users\Batch 4\Solution\dynamic\obj\Debug\net7.0\ref\dynamic.dll

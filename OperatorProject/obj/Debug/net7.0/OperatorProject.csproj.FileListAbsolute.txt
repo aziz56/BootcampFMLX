@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\OperatorProject\bin\Debug\net7.0\OperatorProject.exe
+C:\Users\Batch 4\Solution\OperatorProject\bin\Debug\net7.0\OperatorProject.deps.json
+C:\Users\Batch 4\Solution\OperatorProject\bin\Debug\net7.0\OperatorProject.runtimeconfig.json
+C:\Users\Batch 4\Solution\OperatorProject\bin\Debug\net7.0\OperatorProject.dll
+C:\Users\Batch 4\Solution\OperatorProject\bin\Debug\net7.0\OperatorProject.pdb
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.dll
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\refint\OperatorProject.dll
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.pdb
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\OperatorProject.genruntimeconfig.cache
+C:\Users\Batch 4\Solution\OperatorProject\obj\Debug\net7.0\ref\OperatorProject.dll

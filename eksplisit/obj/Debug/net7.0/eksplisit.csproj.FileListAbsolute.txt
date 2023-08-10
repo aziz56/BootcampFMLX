@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\eksplisit\bin\Debug\net7.0\eksplisit.exe
+C:\Users\Batch 4\Solution\eksplisit\bin\Debug\net7.0\eksplisit.deps.json
+C:\Users\Batch 4\Solution\eksplisit\bin\Debug\net7.0\eksplisit.runtimeconfig.json
+C:\Users\Batch 4\Solution\eksplisit\bin\Debug\net7.0\eksplisit.dll
+C:\Users\Batch 4\Solution\eksplisit\bin\Debug\net7.0\eksplisit.pdb
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.dll
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\refint\eksplisit.dll
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.pdb
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\eksplisit.genruntimeconfig.cache
+C:\Users\Batch 4\Solution\eksplisit\obj\Debug\net7.0\ref\eksplisit.dll

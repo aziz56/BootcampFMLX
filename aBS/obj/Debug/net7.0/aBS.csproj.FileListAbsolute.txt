@@ -1,0 +1,5 @@
+C:\Users\Batch 4\Solution\aBS\obj\Debug\net7.0\aBS.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\aBS\obj\Debug\net7.0\aBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\aBS\obj\Debug\net7.0\aBS.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\aBS\obj\Debug\net7.0\aBS.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\aBS\obj\Debug\net7.0\aBS.csproj.CoreCompileInputs.cache

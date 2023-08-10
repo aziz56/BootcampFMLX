@@ -1,0 +1,5 @@
+C:\Users\Batch 4\Solution\parentmethod\obj\Debug\net7.0\parentmethod.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\parentmethod\obj\Debug\net7.0\parentmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\parentmethod\obj\Debug\net7.0\parentmethod.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\parentmethod\obj\Debug\net7.0\parentmethod.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\parentmethod\obj\Debug\net7.0\parentmethod.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\projectdua\bin\Debug\net7.0\projectdua.exe
+C:\Users\Batch 4\Solution\projectdua\bin\Debug\net7.0\projectdua.deps.json
+C:\Users\Batch 4\Solution\projectdua\bin\Debug\net7.0\projectdua.runtimeconfig.json
+C:\Users\Batch 4\Solution\projectdua\bin\Debug\net7.0\projectdua.dll
+C:\Users\Batch 4\Solution\projectdua\bin\Debug\net7.0\projectdua.pdb
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.dll
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\refint\projectdua.dll
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.pdb
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\projectdua.genruntimeconfig.cache
+C:\Users\Batch 4\Solution\projectdua\obj\Debug\net7.0\ref\projectdua.dll

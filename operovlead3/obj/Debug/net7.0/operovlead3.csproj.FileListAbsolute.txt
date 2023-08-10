@@ -1,0 +1,15 @@
+C:\Users\Batch 4\Solution\operovlead3\bin\Debug\net7.0\operovlead3.exe
+C:\Users\Batch 4\Solution\operovlead3\bin\Debug\net7.0\operovlead3.deps.json
+C:\Users\Batch 4\Solution\operovlead3\bin\Debug\net7.0\operovlead3.runtimeconfig.json
+C:\Users\Batch 4\Solution\operovlead3\bin\Debug\net7.0\operovlead3.dll
+C:\Users\Batch 4\Solution\operovlead3\bin\Debug\net7.0\operovlead3.pdb
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.csproj.CoreCompileInputs.cache
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.dll
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\refint\operovlead3.dll
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.pdb
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\operovlead3.genruntimeconfig.cache
+C:\Users\Batch 4\Solution\operovlead3\obj\Debug\net7.0\ref\operovlead3.dll

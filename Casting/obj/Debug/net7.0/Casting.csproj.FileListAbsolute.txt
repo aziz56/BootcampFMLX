@@ -1,0 +1,5 @@
+C:\Users\Batch 4\Solution\Casting\obj\Debug\net7.0\Casting.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\Casting\obj\Debug\net7.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\Casting\obj\Debug\net7.0\Casting.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\Casting\obj\Debug\net7.0\Casting.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\Casting\obj\Debug\net7.0\Casting.csproj.CoreCompileInputs.cache
