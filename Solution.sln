@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerator", "Enumerator\Enumerator.csproj", "{2DEFEC63-87C2-45BA-BEB7-52707F193638}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{96A7DA07-DBAE-4583-A9D7-4BBF05C61BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refinout", "refinout\refinout.csproj", "{AFC301AA-072F-4FE1-9D56-D18D64CC1D41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +166,13 @@ Global
 		{2DEFEC63-87C2-45BA-BEB7-52707F193638}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DEFEC63-87C2-45BA-BEB7-52707F193638}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DEFEC63-87C2-45BA-BEB7-52707F193638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A7DA07-DBAE-4583-A9D7-4BBF05C61BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A7DA07-DBAE-4583-A9D7-4BBF05C61BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A7DA07-DBAE-4583-A9D7-4BBF05C61BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A7DA07-DBAE-4583-A9D7-4BBF05C61BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC301AA-072F-4FE1-9D56-D18D64CC1D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC301AA-072F-4FE1-9D56-D18D64CC1D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC301AA-072F-4FE1-9D56-D18D64CC1D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC301AA-072F-4FE1-9D56-D18D64CC1D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Batch 4\Solution\refinout\obj\Debug\net7.0\refinout.csproj.AssemblyReference.cache
+C:\Users\Batch 4\Solution\refinout\obj\Debug\net7.0\refinout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 4\Solution\refinout\obj\Debug\net7.0\refinout.AssemblyInfoInputs.cache
+C:\Users\Batch 4\Solution\refinout\obj\Debug\net7.0\refinout.AssemblyInfo.cs
+C:\Users\Batch 4\Solution\refinout\obj\Debug\net7.0\refinout.csproj.CoreCompileInputs.cache
